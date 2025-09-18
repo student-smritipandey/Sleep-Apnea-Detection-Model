@@ -1,1 +1,1 @@
-# Sleep-Apnea-Detection-Model
+# Sleep Apnea Detection Model
